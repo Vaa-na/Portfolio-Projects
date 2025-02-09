@@ -1,4 +1,4 @@
-# Portfolio-Projects
+# Data Portfolio - Vik Dasari
 This repository contains all of my portfolio projects relating to Data Science, Data Engineering, and Data Analysis.
 
 * Email: vik.dasari@gmail.com
